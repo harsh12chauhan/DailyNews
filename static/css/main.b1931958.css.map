@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b1931958.css","mappings":"AAAA,EACI,aAAc,CAEd,cAAe,CADf,oBAEJ,CAEA,QACI,aAEJ","sources":["App.css"],"sourcesContent":["a {\r\n    color: #b9bfc7;\r\n    text-decoration: none;\r\n    margin: 3px 7px;\r\n}\r\n\r\na:hover{\r\n    color: rgb(148, 157, 167);\r\n\r\n}"],"names":[],"sourceRoot":""}
